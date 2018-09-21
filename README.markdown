@@ -15,7 +15,7 @@ RosaR gem has moved to [Gemcutter](http://gemcutter.org). In order to install yo
 2. Install gemcutter:
 
         sudo gem install gemcutter
-        sudo gem tumble
+        sudo gem install tumble
     
 Next, simply install the gem:
 
